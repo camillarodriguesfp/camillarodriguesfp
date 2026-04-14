@@ -4,7 +4,6 @@
 Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
-___
 
 <h3>👩‍💻 Sobre mim</h3>
 
@@ -12,7 +11,7 @@ ___
 - 📧 Contato: **camillarodriguesfp2@gmail.com**  
 - 💖 Apaixonada por animais, livros, música, boas conversas e café ☕
 
-___
+
 
 <h3>✨ Principais projetos</h3>
 
@@ -60,7 +59,7 @@ ___
 
 </details>
 
-___
+
 
 <h3🛠️ Tecnologias e Ferramentas</h3>
 
@@ -76,7 +75,7 @@ ___
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-___
+
 
 <h3>🌐 Minhas redes</h3>
 
