@@ -1,7 +1,7 @@
 <h2 align="center">Olá! 🍄 Sou a Camilla</h2>
 
 <h4 align="center">
-Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas
 </h4>
 
 <br>
