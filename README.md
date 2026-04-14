@@ -38,8 +38,6 @@ ___
 
 </details>
 
---
-
 <details>
   <summary><strong>🏠 Luguel</strong></summary>
   <br>
