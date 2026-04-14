@@ -4,11 +4,15 @@
 Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
+<br>
+
 <h3>👩‍💻 Sobre mim</h3>
 
 - 🎯 Foco em Soluções Digitas, UI/UX, Desenvolvimento Front-end e Engenharia de Software  
 - 📧 Contato: **camillarodriguesfp2@gmail.com**  
-- 💖 Apaixonada por animais, livros, música, boas conversas e café ☕  
+- 💖 Apaixonada por animais, livros, música, boas conversas e café ☕
+
+<br>
 
 <h3>✨ Principais projetos</h3>
 
@@ -60,7 +64,6 @@ Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
 
 <br>
 
-
 <h3🛠️ Tecnologias e Ferramentas</h3>
 
 <p>
@@ -74,6 +77,8 @@ Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+<br>
 
 <h3>🌐 Minhas redes</h3>
 
