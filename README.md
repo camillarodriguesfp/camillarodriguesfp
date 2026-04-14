@@ -4,16 +4,17 @@
 Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
+<br>
 
-<h3>👩‍💻 Sobre mim</h3>
+<h4>👩‍💻 Sobre mim</h4>
 
 - 🎯 Foco em Soluções Digitas, UI/UX, Desenvolvimento Front-end e Engenharia de Software  
 - 📧 Contato: **camillarodriguesfp2@gmail.com**  
 - 💖 Apaixonada por animais, livros, música, boas conversas e café ☕
 
+<br>
 
-
-<h3>✨ Principais projetos</h3>
+<h4>✨ Principais projetos</h4>
 
 <details>
   <summary><strong>🐾 PetSystem</strong></summary>
@@ -59,9 +60,9 @@ Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
 
 </details>
 
+<br>
 
-
-<h3🛠️ Tecnologias e Ferramentas</h3>
+<h4>🛠️ Tecnologias e Ferramentas</h4>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -75,9 +76,9 @@ Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<br>
 
-
-<h3>🌐 Minhas redes</h3>
+<h4>🌐 Minhas redes</h4>
 
 <p>
   <a href="https://www.instagram.com/millaarfp/" target="_blank">
